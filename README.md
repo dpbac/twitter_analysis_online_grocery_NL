@@ -15,16 +15,15 @@ Project Organization
     │   └── raw            <- The original, immutable data dump.
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
+    │   │                      the creator's initials, and a short `-` delimited description, e.g.
+    │   │                     `1.0-jqp-initial-data-exploration`.
+    │   └── twitter_credentials.py	   <- Contains Twitter credentials
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
     │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    └── twitter_credentials.py	   <- Contains Twitter credentials
+    └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+	                         generated with `pip freeze > requirements.txt`
 
 
 --------
