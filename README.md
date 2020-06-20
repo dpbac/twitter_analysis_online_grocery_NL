@@ -1,4 +1,4 @@
-Project_twitter_analysis_online_grocery_NL
+🛒 Project Twitter Analysis Online Groceries NL in times of COVID-19
 ==============================
 
 The goal of this project is to perform a sentiment analysis in relation to online grocery shopping in the Netherlands considering the period starting with the 1st case of corona virus or as close as possible of this. For this we will use Twitter messages.
