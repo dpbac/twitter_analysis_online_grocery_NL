@@ -6,13 +6,13 @@ notebooks/.ipynb_checkpoints
 notebooks/.gitkeep
 notebooks/01-collecting_and_saving_tweets_using_python-twitter.ipynb
 notebooks/Untitled.ipynb
+notebooks/private_twitter_credentials.py
 references/
 reports/
 src/
 .env
 LICENSE
 Makefile
-private_twitter_credentials.py
 setup.py
 test_environment.py
 tox.ini
