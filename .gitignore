@@ -8,6 +8,7 @@ src/
 .env
 LICENSE
 Makefile
+private_twitter_credentials.py
 setup.py
 test_environment.py
 tox.ini
