@@ -1,7 +1,17 @@
 🛒 Project Twitter Analysis Online Groceries NL in times of COVID-19
 ==============================
 
-The goal of this project is to perform a sentiment analysis in relation to online grocery shopping in the Netherlands considering the period starting with the 1st case of corona virus or as close as possible of this. For this we will use Twitter messages.
+The goal of this project is to perform a sentiment analysis in relation to online grocery shopping in the Netherlands considering 
+the period starting with the 1st case of corona virus or as close as possible of this. For this we will use Twitter messages.
+
+In the notebooks of this repository we will be showing how to:
+
+* Obtain and clean the data from a Twitter user’s timeline
+* Obtain and clean the data from a Twitter search
+* Export the Twitter data to a csv file
+* Apply analysis tools from NLTK to get summary data and explore hypotheses about the user’s tweets
+* Apply sentiment analysis
+* Use Python libraries to visualize the data you collect
 
 Project Organization
 ------------
@@ -29,9 +39,18 @@ Project Organization
 
 --------
 
-# USAGE
+# Notebooks
 
 In [01-collecting_and_saving_tweets.ipynb](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/notebooks/01-collecting_and_saving_tweets.ipynb) replace `private_twitter_credentials.py` by `twitter_credentials.py`. `twitter_credentials.py` must contain your [Twitter 
 credentials](https://developer.twitter.com/en/docs/basics/authentication/oauth-1-0a/obtaining-user-access-tokens).
+
+# Install/Technical requirements
+
+* You'll need Twitter API credentials to run this project
+
+* conda version: 4.8.3
+* Install requirements using `pip install -r requirements.txt`.
+  * Make sure you use Python 3 (I used 3.6.7).
+  * You may want to use a virtual environment for this.
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
