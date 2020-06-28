@@ -19,8 +19,9 @@ Project Organization
     │   │                     `1.0-jqp-initial-data-exploration`.
     │   └── twitter_credentials.py	   <- Contains Twitter credentials
     │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    ├── images             <- Images used in the project.
     │
+    ├──.gitignore          <- Contains entries of files or folders to ignore in a project.
     │
     └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 	                         generated with `pip freeze > requirements.txt`
