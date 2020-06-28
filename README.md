@@ -49,7 +49,9 @@ Project Organization
 
 **[03-Preparing Twitter data for analysis-Part 02 :](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/notebooks/03-Preparing%20Twitter%20data%20for%20analysis-Part%2002.ipynb)** Perform feature selection, concatenate data of all three supermarkets considering the chosen, calculate sentiment of Tweets.
 
-**[04-EDA and Sentiment Analysis :](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/notebooks/04-EDA%20and%20Sentiment%20Analysis.ipynb)** Perform EDA and sentiment analysis on Tweet data covering the period of `30th March, 2020 till 24th June, 2020`.
+**[04-EDA and Sentiment Analysis :](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/notebooks/04-EDA%20and%20Sentiment%20Analysis.ipynb)** 
+Perform EDA and sentiment analysis on Tweet data covering the period of `30th March, 2020 till 24th June, 2020`. Python libraries such as 
+seaborn are used for data vizualization.
 
 This period does not cover all period considering the 1st corona case in The Netherlands (February 27th) but as seen in the following 
 graph still covers an important period of the crisis.
