@@ -1,5 +1,7 @@
 🛒 Project Twitter Analysis Online Groceries NL in times of COVID-19
 ==============================
+![image_project_supermarket_covid](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/images/image_project_supermarket_covid.JPG)
+
 
 The goal of this project is to perform a sentiment analysis in relation to online grocery shopping in the Netherlands considering 
 the period starting with the 1st case of corona virus or as close as possible of this. For this we will use Twitter messages.
@@ -7,7 +9,7 @@ the period starting with the 1st case of corona virus or as close as possible of
 In the notebooks of this repository we will be showing how to:
 
 * Obtain and clean the data from a Twitter user’s timeline
-* Obtain and clean the data from a Twitter search
+* Obtain and clean the data from a Twitter search (*To be done*)
 * Export the Twitter data to a csv file
 * Apply analysis tools from NLTK to get summary data and explore hypotheses about the user’s tweets
 * Apply sentiment analysis
