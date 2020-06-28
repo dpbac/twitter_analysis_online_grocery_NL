@@ -31,17 +31,19 @@ Project Organization
 
 --------
 
+# Some tools used:
+
+* [Python-twitter](https://python-twitter.readthedocs.io/en/latest/index.html)
+* [TextBlob](https://textblob.readthedocs.io/en/dev/)
+* [textblob-nl](https://github.com/gvisniuc/textblob-nl)
+* [langdetect](https://pypi.org/project/langdetect/)
+* [LangID](https://pypi.org/project/langid/1.1dev/)
+* [Textcat from nltk](https://www.nltk.org/_modules/nltk/classify/textcat.html)  
+* [Spacy](https://spacy.io/)
+* [Seaborn](https://seaborn.pydata.org/index.html)
+
 # Notebooks
 
-Some tools used during this project:
-•	Python-twitter
-•	TextBlob
-•	textblob-nl
-•	langdetect
-•	LangID
-•	Textcat from nltk  
-•	Spacy
-•	Seaborn
 
 **[01-collecting_and_saving_tweets.ipynb](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/notebooks/01-collecting_and_saving_tweets.ipynb):** Collect data using methods of the Twitter API. Some pre-processing and saving data in .csv.
 **Notebook 02:** Concatenate most recent and older data from AH’s user timeline in order to increase the period covered. Investigate and use different language detector in order to full fill information of language of Tweets that were missing. Process Tweets obtained from queries.
