@@ -45,10 +45,13 @@ Project Organization
 # Notebooks
 
 
-**[01-collecting_and_saving_tweets.ipynb](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/notebooks/01-collecting_and_saving_tweets.ipynb):** Collect data using methods of the Twitter API. Some pre-processing and saving data in .csv.
-**Notebook 02:** Concatenate most recent and older data from AH’s user timeline in order to increase the period covered. Investigate and use different language detector in order to full fill information of language of Tweets that were missing. Process Tweets obtained from queries.
-**Notebook 03:** Perform feature selection, concatenate data of all three supermarkets considering the chosen, calculate sentiment of Tweets.
-**Notebook 04:** Perform EDA and sentiment analysis on Tweet data covering the period of `30th March, 2020 till 24th June, 2020`.
+**[01-collecting_and_saving_tweets :](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/notebooks/01-collecting_and_saving_tweets.ipynb):** Collect data using methods of the Twitter API. Some pre-processing and saving data in .csv.
+
+**[02-Preparing Twitter data for analysis-Part 01 :](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/notebooks/02-Preparing%20Twitter%20data%20for%20analysis-Part%2001.ipynb)** Concatenate most recent and older data from AH’s user timeline in order to increase the period covered. Investigate and use different language detector in order to full fill information of language of Tweets that were missing. Process Tweets obtained from queries.
+
+**[03-Preparing Twitter data for analysis-Part 02 :](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/notebooks/03-Preparing%20Twitter%20data%20for%20analysis-Part%2002.ipynb)** Perform feature selection, concatenate data of all three supermarkets considering the chosen, calculate sentiment of Tweets.
+
+**[04-EDA and Sentiment Analysis :](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/notebooks/04-EDA%20and%20Sentiment%20Analysis.ipynb)** Perform EDA and sentiment analysis on Tweet data covering the period of `30th March, 2020 till 24th June, 2020`.
 
 This period does not cover all period considering the 1st corona case in The Netherlands (February 27th) but as seen in the following 
 graph still covers an important period of the crisis.
