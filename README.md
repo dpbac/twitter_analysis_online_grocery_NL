@@ -1,4 +1,4 @@
-🛒 Project Twitter Analysis Online Groceries NL in times of COVID-19
+🛒 **Twitter Analysis of Online Dutch Supermarkets in times of COVID-19**
 ==============================
 ![image_project_supermarket_covid](https://github.com/dpbac/twitter_analysis_online_grocery_NL/blob/master/images/image_project_supermarket_covid.JPG)
 
