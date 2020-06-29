@@ -1,6 +1,7 @@
 # folders and files removed from what was generated using cookiecutter
 
 docs/ 
+images_hidden/
 models/
 notebooks/.ipynb_checkpoints
 notebooks/.gitkeep
