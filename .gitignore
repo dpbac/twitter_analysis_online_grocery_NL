@@ -7,6 +7,7 @@ notebooks/.gitkeep
 notebooks/01-collecting_and_saving_tweets_using_python-twitter.ipynb
 notebooks/Untitled.ipynb
 notebooks/private_twitter_credentials.py
+notebooks/04-EDA and Sentiment Analysis-Copy1
 references/
 reports/
 src/
